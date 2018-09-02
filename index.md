@@ -34,11 +34,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Learn PHP
 <html>
- <head>
-  <title>PHP Test</title>
- </head>
+ <title>PHP Test</title>
  <body>
- <php> echo '<p>Hello World</p>'; </php>
+  <php> echo '<p>Hello World</p>'; </php>
  </body>
 </html>
 
